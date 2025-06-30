@@ -3,7 +3,7 @@ package errors_test
 import (
 	"fmt"
 
-	"github.com/chhz0/go-boot/pkg/errors"
+	"github.com/chhz0/gpkg/pkg/errors"
 )
 
 func ExampleNew() {

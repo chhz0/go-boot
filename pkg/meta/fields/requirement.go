@@ -1,6 +1,6 @@
 package fields
 
-import "github.com/chhz0/go-boot/pkg/meta/selection"
+import "github.com/chhz0/gpkg/pkg/meta/selection"
 
 type Requirements []Requirement
 

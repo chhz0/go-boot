@@ -20,8 +20,9 @@ type CommandOptions struct {
 	Init     func(cmd *Command)
 }
 
-func New(commander Commander) (*Exec, error) {
+func NewCLI(commander Commander) (*Exec, error) {
 
+	return nil, nil
 }
 
 type Command struct {
@@ -35,4 +36,5 @@ type Command struct {
 
 func (c *Command) compile() error {
 
+	return nil
 }

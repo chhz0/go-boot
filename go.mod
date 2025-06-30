@@ -1,4 +1,4 @@
-module github.com/chhz0/go-boot
+module github.com/chhz0/gpkg
 
 go 1.24.1
 
